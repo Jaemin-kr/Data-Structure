@@ -20,4 +20,4 @@ a = int(input('integer a: '))
 b = int(input('integer b: '))
 c = int(input('integer c: '))
 
-printf(f'중앙값은 {ned3(a,b,c)}입니다.')
+print(f'중앙값은 {med3(a,b,c)}입니다.')
